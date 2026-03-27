@@ -1,4 +1,6 @@
 # wisp
-npm install @mercuryworkshop/wisp-js
+ターミナルに
 
-node index.js
+npm install @mercuryworkshop/wisp-js　うってから
+
+node index.js　うつ
