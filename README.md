@@ -2,7 +2,7 @@
 まずお使いの端末にnodejsを入れましょう(replit,codespace,codesandboxを使う人は最初から入ってます)そんでこのリポジトリをダウンロード/複製してください
 そんでターミナルに
 
-npm install @mercuryworkshop/wisp-js　うってから
+npm install　うってから
 
 node index.js　うつ
 
