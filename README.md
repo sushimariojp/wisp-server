@@ -1,2 +1,2 @@
 # wisp
-wisp
+node index.js
