@@ -1,17 +1,6 @@
-# wisp
-まずお使いの端末にnodejsを入れましょう(replit,codespace,を使う人は最初から入ってます)そんでこのリポジトリをダウンロード/複製してください
+go to /wisp-proxy directory
 
-そんでwisp-proxyのディレクトリに移動して
+type this command in terminal↓  
 
-そんでターミナルに
-
-npm install (termuxを使う人はnpm install --ignore-scripts)　うってから
-
-node index.js　うつ
-
-ターミナルに[wisp serverが実行されました]って出れば成功だよ
-
-
-適当に書いたからなんかわからなかったら聞いてね
-
-
+npm i  
+node index.js
